@@ -1,0 +1,50 @@
+.labelcss{
+    color: white;
+    margin-left: 20px;
+}
+
+.statusboxBillPortal {
+    margin-left: -20px;
+}
+
+.BillPortalHead {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    padding: 20px;
+}
+.containerBillPortal h3{
+    color: white;
+    margin: 20px;
+}
+.containerBillPortal input{
+    margin: 20px;
+}
+.containerBillPortal button {
+    color: black;
+    padding: 5px;
+}
+.statusinputBillPortal {
+    display: flex;
+}
+.tableContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.tableContainer table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    justify-content: center;
+    color: white;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.tableContainer td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }

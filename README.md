@@ -1,2 +1,19 @@
-# Institute-Website-TSG
-Website that provide updates about academic, technology and sports related activities of IIT Kharagpur .Created Institute Website using React.js, which contains pages related to our academic and social information . Developed a News Bulletin frontend page which takes data from backend and update latest information
+**_Frontend_**
+HTML
+CSS
+React
+Bootstrap
+Java-script
+**_Backend_**
+Two-step-auth: verification through OTP
+google apis:fetching data fom google sheets
+Multer:uploading document
+Axios:integrating front-end with backend
+
+***start the application***
+**for frontend**
+cd frontend
+npm start
+**for backend**
+npm run dev
+
